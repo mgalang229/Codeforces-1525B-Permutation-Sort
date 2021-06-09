@@ -39,9 +39,9 @@ int main() {
 		
 			For example:
 			5 4 2 3 1
-			2 3 4 5 1 - 1st
-			2 1 3 4 5 - 2nd
-			1 2 3 4 5 - 3rd
+			2 3 4 5 1 - 1st operation
+			2 1 3 4 5 - 2nd operation
+			1 2 3 4 5 - 3rd operation
 			
 			*/
 			cout << 3;
