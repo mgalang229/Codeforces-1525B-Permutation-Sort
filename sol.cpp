@@ -35,6 +35,15 @@ int main() {
 			cout << 1;
 		} else if (a[0] == b[n - 1] && a[n - 1] == b[0]) {
 			// if the first and last elements switched places, then output 3
+			/*
+		
+			For example:
+			5 4 2 3 1
+			2 3 4 5 1 - 1st
+			2 1 3 4 5 - 2nd
+			1 2 3 4 5 - 3rd
+			
+			*/
 			cout << 3;
 		} else {
 			// otherwise, the minimum number of operations will always be 2
